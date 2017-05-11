@@ -1,0 +1,4 @@
+[submodule "mesos"]
+	path = mesos
+	url = https://github.com/krux/mesos.git
+	branch = ours
